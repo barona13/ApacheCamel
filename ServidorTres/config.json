@@ -1,0 +1,8 @@
+{  
+   "basePackage":"co.com.barona.microservice.resolveEnigmaApi",
+   "configPackage":"co.com.barona.microservice.resolveEnigmaApi.config",
+   "apiPackage":"co.com.barona.microservice.resolveEnigmaApi.api",
+   "modelPackage":"co.com.barona.microservice.resolveEnigmaApi.model",
+   "groupId":"co.com.barona.service.resolveEnigmaApi",
+   "artifactId":"orquestador-enigma-api"
+}
